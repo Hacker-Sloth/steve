@@ -1,0 +1,9 @@
+{
+  "type": "gltf",
+  "name": "My Custom Aircraft",
+  "model": "https://raw.githubusercontent.com/Hacker-Sloth/steve/refs/heads/main/scene.gltf",
+  "cockpit": null,
+  "animations": {
+      "flaps": { "channel": 0, "range": [0, 1] }
+  }
+}
